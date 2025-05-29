@@ -1,0 +1,48 @@
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe.config
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.AssemblyReference.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form1.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Resources.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.GenerateResource.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.CoreCompileInputs.cache
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.xml
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form2.resources
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.AssemblyReference.cache
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form1.resources
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form2.resources
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Resources.resources
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.GenerateResource.cache
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.CoreCompileInputs.cache
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.xml
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.pdb
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe.config
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.pdb
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.xml
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.ChartForm.resources
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form3.resources
+C:\Users\elmac\OneDrive\Documents\2024-2025\2nd Sem 2024-2025\ensc 26\projj\A1L_Macatangay-Olleres-Pasahol_Project-20250524T052320Z-1-001\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.ImageForm.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe.config
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.pdb
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\bin\Debug\A1L_Macatangay-Olleres-Pasahol_Project.xml
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.AssemblyReference.cache
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.ChartForm.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form1.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form2.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form3.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.ImageForm.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Resources.resources
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.GenerateResource.cache
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.vbproj.CoreCompileInputs.cache
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.exe
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.xml
+C:\Users\John Carlo Olleres\Downloads\FINAL\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay-Olleres-Pasahol_Project.pdb
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.ChartForm.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.Form3.resources
+C:\Users\John Carlo Olleres\Desktop\Visual Basic\A1L_Macatangay-Olleres-Pasahol_Project\obj\Debug\A1L_Macatangay_Olleres_Pasahol_Project.ImageForm.resources
